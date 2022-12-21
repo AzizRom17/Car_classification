@@ -22,7 +22,8 @@ Some cleaned was needed in order to work with our data, I made the following cha
 ## EDA 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
-![alt text](https://github.com/AzizRom17/Car_classification/blob/main/corr.png)
+![alt text](https://github.com/AzizRom17/Car_classification/blob/main/pca.png)
+![alt text](https://github.com/AzizRom17/Car_classification/blob/main/t-sne.png)
 ![alt text](https://github.com/AzizRom17/Car_classification/blob/main/long.png)
 
 ## Model Building
