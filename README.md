@@ -20,7 +20,7 @@ Some cleaned was needed in order to work with our data, I made the following cha
 * Encoded categorical features.
 
 ## EDA 
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the reduced data distribution.
 
 ![alt text](https://github.com/AzizRom17/Car_classification/blob/main/pca.png)
 ![alt text](https://github.com/AzizRom17/Car_classification/blob/main/t-sne.png)
