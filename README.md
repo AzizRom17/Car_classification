@@ -22,9 +22,8 @@ Some cleaned was needed in order to work with our data, I made the following cha
 ## EDA 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the reduced data distribution.
 
-![alt text](https://github.com/AzizRom17/Car_classification/blob/main/pca.png)
-![alt text](https://github.com/AzizRom17/Car_classification/blob/main/t-sne.png)
-![alt text](https://github.com/AzizRom17/Car_classification/blob/main/long.png)
+![pca](https://github.com/AzizRom17/Car_classification/blob/main/pca.png)
+![t-sne](https://github.com/AzizRom17/Car_classification/blob/main/t-sne.png)
 
 ## Model Building
 I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 10%.
